@@ -46,7 +46,7 @@ Start the server
 ```
 
 
-## License and Credits
+## License and Attribution
 This project uses the API from the following project: https://github.com/Lissy93/web-check
 
 [MIT](https://choosealicense.com/licenses/mit/)
